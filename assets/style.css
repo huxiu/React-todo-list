@@ -1,0 +1,24 @@
+body{
+    font-size: 16px;
+}
+#todolist{
+    margin: 20px 0 0 0;
+}
+#todolist h1{
+    font-size: 22px;
+    text-align: center;
+}
+#todolist .create{
+    padding: 10px 0 0;
+}
+#todolist .list ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#todolist .list .form-group label{
+    font-weight: normal;
+}
+#todolist .list .form-group > label.text:hover{
+    background-color: #eee;
+}
